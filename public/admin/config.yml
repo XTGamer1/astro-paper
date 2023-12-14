@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Description", name: "description", widget: "text", required: true }
+      - { label: "Published Datetime", name: "pubDatetime", widget: "datetime", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm", required: true }
+      - { label: "Author", name: "author", widget: "string", default: "SITE.author" }
+      - { label: "Post Slug", name: "postSlug", widget: "string", default: "slugified title" }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Tags", name: "tags", widget: "list", default: ["others"] }
+      - { label: "OG Image", name: "ogImage", widget: "string", default: "SITE.ogImage or generated OG image" }
+      - { label: "Canonical URL", name: "canonicalURL", widget: "string", default: "Astro.site + Astro.url.pathname" }
