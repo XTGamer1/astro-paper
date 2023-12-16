@@ -15,14 +15,12 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Publish Date", name: "publishDate", widget: "datetime" }
       - { label: "Author", name: "author", widget: "string", default: "SITE.author" }
+      - { label: "Publish Date", name: "pubDatetime", widget: "datetime" }
       - { label: "Post Slug", name: "postSlug", widget: "string", default: "slugified title" }
       - { label: "Featured", name: "featured", widget: "boolean", default: false }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Tags", name: "tags", widget: "list", default: ["others"] }
-      - { label: "Hero Image", name: "heroImage", widget: "image" }
+      - { label: "Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "OG Image", name: "ogImage", widget: "image", default: "SITE.ogImage or generated OG image" }
-      - { label: "Canonical URL", name: "canonicalURL", widget: "string", default: "Astro.site + Astro.url.pathname" }
+
