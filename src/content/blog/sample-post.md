@@ -43,9 +43,7 @@ Before diving into the roadmap, let's briefly discuss the prerequisites. While n
 
 Now, let's embark on this comprehensive roadmap to equip you with the skills and knowledge needed to thrive in the ever-evolving field of web development. Whether you're a beginner or looking to enhance your existing skills, this guide will walk you through each step of the journey. Let's get started!
 
-
-
-## 2. Table of Contents 
+## 2. Table of Contents
 
 1. **Introduction**
 
@@ -147,8 +145,6 @@ Now, let's embark on this comprehensive roadmap to equip you with the skills and
     * Participating in Web Development Communities
     * Continuous Learning Strategies
 
-
-
 ## 3. Take the Fast Track to Web Development Excellence
 
 Accelerate your learning with our FREE web development course on our dedicated YouTube channel. This comprehensive course aligns seamlessly with the roadmap, offering practical insights and hands-on experience.
@@ -164,6 +160,4 @@ Accelerate your learning with our FREE web development course on our dedicated Y
 
 Ready to embark on your web development journey? Click the button below to access the FREE course and start building your skills today!
 
-
-
-> ## ** ﻿   [S﻿tart Now](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w)**
+> ## ** [S﻿tart Now](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w)**
