@@ -4,7 +4,7 @@ ogImage: ""
 title: "Learn Web Development: The Comprehensive Roadmap"
 author: Shoto
 pubDatetime: 2023-12-21T01:15:19.000Z
-postSlug: "#webdevelopment"
+postSlug: webdevelopment-guide
 featured: true
 tags:
   - webdevelopment
