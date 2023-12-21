@@ -41,6 +41,8 @@ Before diving into the roadmap, let's briefly discuss the prerequisites. While n
 
 Now, let's embark on this comprehensive roadmap to equip you with the skills and knowledge needed to thrive in the ever-evolving field of web development. Whether you're a beginner or looking to enhance your existing skills, this guide will walk you through each step of the journey. Let's get started!
 
+<script type="text/javascript"> atOptions = { 'key' : '34b4925afb8f77495bf3b303dc103517', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {} }; document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/34b4925afb8f77495bf3b303dc103517/invoke.js"></scr' + 'ipt>'); </script>
+
 ## 2. Table of Contents
 
 1. **Introduction**
@@ -91,7 +93,8 @@ Now, let's embark on this comprehensive roadmap to equip you with the skills and
 
      * Introduction to React
      * Building Components
-6. **Server-Side Development**
+     *
+6. <script type="text/javascript"> atOptions = { 'key' : '34b4925afb8f77495bf3b303dc103517', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {} }; document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/34b4925afb8f77495bf3b303dc103517/invoke.js"></scr' + 'ipt>'); </script>**Server-Side Development**
 
    * Basics of Server-Side Programming
 
@@ -100,8 +103,10 @@ Now, let's embark on this comprehensive roadmap to equip you with the skills and
    * Building APIs with Express
 
      * Setting up an Express Server
-     * Creating API Endpoints
-7. **Database Fundamentals**
+     * Creating API Endpoints﻿
+     *
+7.
+8. **Database Fundamentals**
 
    * Introduction to Databases
    * Relational Databases and SQL
@@ -112,7 +117,7 @@ Now, let's embark on this comprehensive roadmap to equip you with the skills and
 
      * Overview of NoSQL
      * MongoDB Basics
-8. **Back-End Frameworks**
+9. **Back-End Frameworks**
 
    * Django for Python Developers
 
@@ -122,26 +127,28 @@ Now, let's embark on this comprehensive roadmap to equip you with the skills and
 
      * Introduction to Laravel
      * Creating Dynamic Websites
-9. **Web Security Best Practices**
+10. **Web Security Best Practices**
 
-   * Understanding Web Security
-   * Implementing HTTPS
-   * Common Web Security Vulnerabilities
-10. **Deploying Web Applications**
+    * Understanding Web Security
+    * Implementing HTTPS
+    * Common Web Security Vulnerabilities
+11. **Deploying Web Applications**
 
     * Choosing a Hosting Provider
     * Deploying on Cloud Platforms
     * Continuous Integration and Deployment
-11. **Optimizing Web Performance**
+12. **Optimizing Web Performance**
 
     * Importance of Web Performance
     * Browser Rendering Process
     * Optimizing Images and Assets
-12. **Staying Updated and Advancing Skills**
+13. **Staying Updated and Advancing Skills**
 
     * Following Industry Trends
     * Participating in Web Development Communities
     * Continuous Learning Strategies
+
+<script type="text/javascript"> atOptions = { 'key' : '34b4925afb8f77495bf3b303dc103517', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {} }; document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/34b4925afb8f77495bf3b303dc103517/invoke.js"></scr' + 'ipt>'); </script>
 
 ## 3. Take the Fast Track to Web Development Excellence
 
