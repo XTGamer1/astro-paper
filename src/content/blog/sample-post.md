@@ -14,7 +14,7 @@ tags:
   - course
   - free
 canonicalURL: https://example.org/my-article-was-already-posted-here
-description: From deployment strategies to performance optimization.
+description: The ultimate guide for webdevelopment .
 ---
 # Learn Web Development: The Comprehensive Roadmap
 
