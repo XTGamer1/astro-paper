@@ -14,9 +14,7 @@ tags:
   - course
   - free
 canonicalURL: https://example.org/my-article-was-already-posted-here
-description: From deployment strategies to performance optimization, our guide
-  ensures you navigate the complexities of web development with confidence and
-  skill.
+description: From deployment strategies to performance optimization.
 ---
 # Learn Web Development: The Comprehensive Roadmap
 
